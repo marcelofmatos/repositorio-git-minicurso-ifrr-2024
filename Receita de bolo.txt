@@ -8,3 +8,6 @@ Receita de bolo
 - Açúcar
 - Chocolate
 - Baunilha
+- Leite condensado
+- Oleo
+- Cenoura
